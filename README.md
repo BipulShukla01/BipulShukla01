@@ -143,7 +143,7 @@ const bipul = {
 <div align="center">
 
 ### 🎯 Training and Placement Portal
-[![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BipulShukla01&repo=IETTNP&theme=tokyonight)](https://github.com/BipulShukla01/IETTNP)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BipulShukla01&repo=IETTNP&theme=tokyonight)](https://github.com/BipulShukla01/IETTNP)
 
 
 

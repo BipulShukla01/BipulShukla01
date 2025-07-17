@@ -143,7 +143,7 @@ const bipul = {
 <div align="center">
 
 ### 🎯 Training and Placement Portal
-[![IETTNP Repo](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github&style=for-the-badge)](https://github.com/BipulShukla01/IETTNP)
+🚀 [Live Demo](https://iettnp.vercel.app) | 🔓 [GitHub Repo](https://github.com/BipulShukla01/IETTNP)
 
 
 
@@ -170,7 +170,7 @@ const bipul = {
 ---
 
 ### 📚 Eathenaeum (E-learning Platform)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BipulShukla01&repo=eathenaeum&theme=tokyonight)](https://github.com/BipulShukla01/eathenaeum)
+🚀 [Live Demo](https://eathenaeum.com) | 🔒 Private Source Code
 
 **Tech Stack:** Node.js • MongoDB • JWT • React.js
 
@@ -182,7 +182,7 @@ const bipul = {
 ---
 
 ### 💡 Automated Public Light System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BipulShukla01&repo=public-light-system&theme=tokyonight)](https://github.com/BipulShukla01/public-light-system)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github&style=for-the-badge)](https://github.com/BipulShukla01/public-light-system)
 
 **Tech Stack:** Arduino • Embedded C • IoT • Smart Cities
 

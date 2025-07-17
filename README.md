@@ -143,7 +143,8 @@ const bipul = {
 <div align="center">
 
 ### 🎯 Training and Placement Portal
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BipulShukla01&repo=IETTNP&theme=tokyonight)](https://github.com/BipulShukla01/IETTNP)
+[![IETTNP Repo](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github&style=for-the-badge)](https://github.com/BipulShukla01/IETTNP)
+
 
 
 

@@ -146,6 +146,7 @@ const bipul = {
 [![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BipulShukla01&repo=IETTNP&theme=tokyonight)](https://github.com/BipulShukla01/IETTNP)
 
 
+
 **Tech Stack:** React.js • Node.js • Express • JWT • MongoDB • Docker • Vercel
 
 🔹 Full-stack application with Role-Based Access Control (RBAC)  

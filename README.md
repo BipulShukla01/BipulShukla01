@@ -160,7 +160,7 @@ const bipul = {
 ### 🌬️ Air Quality Monitoring System (IoT)
 [![air-quality-iot Repo](https://img.shields.io/badge/GitHub-View%20air--quality--iot-blue?logo=github&style=for-the-badge)](https://github.com/BipulShukla01/air-quality-iot)
 
-**Tech Stack:** Embedded C • ESP8266 • IoT • OLED • BME680
+**Tech Stack:** C++ • ESP8266 • IoT • OLED • BME680
 
 🔹 Real-time air quality monitoring with BME680 sensor  
 🔹 OLED display for instant readings  

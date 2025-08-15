@@ -33,7 +33,7 @@
 ```javascript
 const bipul = {
     pronouns: "He/Him",
-    location: "Kanpur, Uttar Pradesh, India",
+    location: "Uttar Pradesh, India",
     currentFocus: "IoT & AI-Enabled Hardware",
     education: "Computer Science Engineering",
     interests: ["Embedded Systems", "Full Stack Development", "IoT", "AI/ML"],
@@ -303,3 +303,4 @@ graph TD
 ### ⭐ Don't forget to star my repositories if you find them interesting!
 
 </div>
+
